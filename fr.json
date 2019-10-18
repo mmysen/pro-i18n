@@ -8,6 +8,20 @@
     , "demo-link": "https://www.inmemori.com/mdarricourt-e73qk"
     , "video": "Vidéo de présentation"
     , "video-id": "XQ2RdK1RzHI"
-  }
+  },
+
+  "common": {
+      "name": "Nom"
+    , "author": "Auteur"
+    , "family": "Famille"
+    , "stats": "Stats"
+    , "cat": "Date de création"
+  },
+
+  "pages-list": {
+    "cta-open-page": "Voir l'espace"
+  },
+
+  "stats-bar": ["Familles\nsoutenues", "Messages\nd'hommage", "Personnes\ntouchées"]
 
 }
