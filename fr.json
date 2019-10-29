@@ -14,14 +14,50 @@
       "name": "Nom"
     , "author": "Auteur"
     , "family": "Famille"
-    , "stats": "Stats"
-    , "cat": "Date de création"
+    , "identifier": "Identifiant"
+    , "password": "Mot de passe"
+  },
+
+  "err": {
+      "login": "Identifiants invalides !"
+  },
+
+  "auth": {
+      "name": "Nom"
+    , "tagline": "Partenaire d'Inmemori depuis juillet 2018"
+  },
+
+  "home": {
+    "quotes": [
+      "Je tenais vraiment à vous remercier pour votre site et le service rendu : sobre, simple et efficace, il a apporté énormément de bien à la famille et aux proches de notre ami qui est parti."
+    ],
+
+    "carousel": [
+        [ "lightbulb", "Lire tous\nnos conseils||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
+      , [ "heartbeat", "", "Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500" ]
+      , [ "wallet",  "", "Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire." ]
+    ],
+
+    "podium": "Podium de la création d'espace"
   },
 
   "pages-list": {
-    "cta-open-page": "Voir l'espace"
+      "cta-open-page": "Voir l'espace"
+    , "th": {
+          "name": "Nom"
+        , "author": "Auteur"
+        , "family": "Famille"
+        , "memories": "Nombre de\nmessages"
+        , "views": "Nombre de\npersonnes"
+        , "cat": "Date\nde création"
+      }
   },
 
-  "stats-bar": ["Familles\nsoutenues", "Messages\nd'hommage", "Personnes\ntouchées"]
+  "stats-bar": [
+      "Familles\nsoutenues"
+    , "Messages\nd'hommage"
+    , "Personnes\ntouchées"
+  ]
+
 
 }
