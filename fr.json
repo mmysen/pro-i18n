@@ -3,7 +3,7 @@
   "menu": {
       "home": "Accueil"
     , "tips": "Astuces"
-    , "tips-link": "https://www.notion.so/inmemori/4c6d91fc2fc947c58c593deb982ae9b5?v=6b6776e200c341d09964c4860efc5f20"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
     , "demo": "Espace d'exemple"
     , "demo-link": "https://www.inmemori.com/mdarricourt-e73qk"
     , "video": "Vidéo de présentation"
@@ -33,7 +33,7 @@
     ],
 
     "carousel": [
-        [ "lightbulb", "Lire tous\nnos conseils||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
+        [ "lightbulb", "Lire tous\nnos conseils||https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
       , [ "heartbeat", "", "Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500" ]
       , [ "wallet",  "", "Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire." ]
     ],
